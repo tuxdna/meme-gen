@@ -1,0 +1,5 @@
+pandas
+weasyprint
+jinja2
+pdfkit
+
